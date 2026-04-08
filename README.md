@@ -1,4 +1,4 @@
-IS601 Module 9 – Working with Raw SQL in pgAdmin
+##IS601 Module 9 – Working with Raw SQL in pgAdmin
 A FastAPI-based calculator application extended with PostgreSQL and pgAdmin using Docker Compose to perform raw SQL operations and demonstrate database relationships.
 
 
