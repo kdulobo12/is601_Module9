@@ -1,0 +1,25 @@
+{
+  "name": "is601_module8",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kd495-stack/IS601_Module8_WebApplication.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kd495-stack/IS601_Module8_WebApplication/issues"
+  },
+  "homepage": "https://github.com/kd495-stack/IS601_Module8_WebApplication#readme",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.59.0",
+    "@types/node": "^25.5.0"
+  }
+}
